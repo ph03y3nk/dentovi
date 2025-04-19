@@ -34,7 +34,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 #EXTINF:-1 tvg-id="MET.ID" group-title="V++" tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
 
-
 #EXTINF:-1 group-title="V++" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 
@@ -62,6 +61,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/KidsChannel/sa_dash/KidsChannel.mpd
 #EXTINF:-1 group-title="V++" tvg-id="miaomi.hk" tvg-logo="https://miaomi-tv.com/Public/images/miao-mi-logo-color.png",Miao Mi
 #https://cempedak-cdn-fly.mncnow.id/live/eds/MiaoMi/sa_dash/MiaoMi.mpd
 
+#EXTINF:-1 group-title="V++" tvg-id="ZooMoo.sg" tvg-name="Zoomoo" tvg-logo="https://iili.io/JmoBV6P.png", Zoomoo
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://iili.io/JmoBktR.png",Dreamworks
+https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.mpd
+
 #EXTINF:-1 group-title="V++" tvg-id="nickjrasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/640px-Nick_Jr._logo_2009.svg.png",Nick Jr. Asia
 https://cempedak-cdn-fly.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
 
@@ -73,9 +78,11 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/AlJazeeraInternational/sa_dash/AlJaz
 
 #EXTINF:-1 group-title="V++" tvg-id="bbcworldnewsasiapacific.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png",BBC World News
 #https://cempedak-cdn-fly.mncnow.id/live/eds/BBCWorldNews/sa_dash/BBCWorldNews.mpd
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 group-title="V++" tvg-id="bloombergtvasia.hk" tvg-logo="https://i.imgur.com/Bb44vog.png",Bloomberg
 #https://cempedak-cdn-fly.mncnow.id/live/eds/Bloomberg/sa_dash/Bloomberg.mpd
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 
 #EXTINF:-1 group-title="V++" tvg-id="cgtn.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/640px-CGTN.svg.png",CGTN
 https://cempedak-cdn-fly.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd
@@ -88,6 +95,9 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/DW/sa_dash/DW.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="euronewsenglish.fr" tvg-logo="https://i.imgur.com/IficfLy.png",EuroNews
 https://cempedak-cdn-fly.mncnow.id/live/eds/EuroNews/sa_dash/EuroNews.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="CNA.id" tvg-name="News Asia" tvg-logo="https://iili.io/Jhksx6l.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 group-title="V++" tvg-id="foxnewschannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png",FOX News Channel
 https://cempedak-cdn-fly.mncnow.id/live/eds/FoxNews/sa_dash/FoxNews.mpd
@@ -111,7 +121,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/NHKWorldPremium/sa_dash/NHKWorldPrem
 https://cempedak-cdn-fly.mncnow.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="tv5mondeasia.fr" tvg-logo="https://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg",TV5 Monde
-https://cempedak-cdn-fly.mncnow.id/live/eds/TV5/sa_dash/TV5.mpd
+#https://cempedak-cdn-fly.mncnow.id/live/eds/TV5/sa_dash/TV5.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="trtworld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/640px-TRT_World_logo.svg.png",TRT World
 https://cempedak-cdn-fly.mncnow.id/live/eds/TRTWorld/sa_dash/TRTWorld.mpd
@@ -167,6 +177,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
 #EXTINF:-1 group-title="V++" tvg-id="zeebioskop.id" tvg-logo="https://i.imgur.com/Xl7MJnd.png",Zee Bioskop
 https://cempedak-cdn-fly.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 group-title="V++" tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://iili.io/JZIC3x9.png",Rock Action
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash/Rockaction.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="RockEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://iili.io/JZICKiu.png",Rock Entertainment
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
+
 #EXTINF:-1 group-title="V++" tvg-logo="https://www.lyngsat.com/logo/tv/oo/originals-real-and-alive-uk.png",ORIGINALS
 https://cempedak-cdn-fly.mncnow.id/live/eds/Cinemachi-HD/sa_dash/Cinemachi-HD.mpd
 
@@ -210,7 +226,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
 https://cempedak-cdn-fly.mncnow.id/live/eds/KIX/sa_dash/KIX.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="oktv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Ok_TV_%282020%29.png",OKTV
-#https://cempedak-cdn-fly.mncnow.id/live/eds/OKTV/sa_dash/OKTV.mpd
+https://cempedak-cdn-fly.mncnow.id/live/eds/OKTVnow/sa_dash/OKTVnow.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="onetvasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d6/Logo_One_TV_Asia_%282020%29.png",ONE
 https://cempedak-cdn-fly.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
@@ -239,8 +255,14 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Lifetime/sa_dash/Lifetime.mpd
 #EXTINF:-1 group-title="V++" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="V++",MTV Live
+#EXTINF:-1 group-title="V++" tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png",MTV Live
 https://cempedak-cdn-fly.mncnow.id/live/eds/MTV/sa_dash/MTV.mpd
+
+#EXTINF:-1 group-title="V++" tvg-logo="https://iili.io/JZIQ7Np.png",MTV 90s
+https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash/MTV-90-HD.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="AlQuranKareem.id" tvg-name="AlQuran Kareem" tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png",AlQuran Kareem
+https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash/AlQuranAlKareem.mpd
 
 #EXTINF:-1 group-title="V++" tvg-id="muslimtv.id" tvg-logo="https://iptv.urfan.web.id/logo/muslimtv.png",Muslim TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
@@ -248,5 +270,26 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 #EXTINF:-1 group-title="V++" tvg-id="tawaftv.id" tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png",Tawaf TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/TawafTV/sa_dash/TawafTV.mpd
 
+#EXTINF:-1 group-title="V++" tvg-id="TV9Nusantara.id" tvg-name="TV9 Nusantara" tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1",TV9 Nusantara
+https://d1abp075u76pbq.cloudfront.net/live/eds/TV9/sa_dash/TV9.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="LoveNature.id" tvg-name="Love Nature Asia" tvg-logo="https://iili.io/JmoCsg1.png",Love Nature Asia
+https://d1abp075u76pbq.cloudfront.net/live/eds/lovenature/sa_dash/lovenature.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://iili.io/JmoCZ5g.png",Outdoor Channel
+https://d1abp075u76pbq.cloudfront.net/live/eds/outdoorchannel/sa_dash/outdoorchannel.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="GlobalTrekker" tvg-name="Global Trekker" tvg-logo="https://iili.io/JmoCrWQ.png",Global Trekker
+https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash/Globaltrekker.mpd
+
 #EXTINF:-1 group-title="V++" tvg-id="abcaustralia.au" tvg-logo="https://i.imgur.com/znfPqNV.png",ABC Australia
 https://cempedak-cdn-fly.mncnow.id/live/eds/AustraliaPlus/sa_dash/AustraliaPlus.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="SEAToday.id" tvg-name="SEA Today" tvg-logo="https://iili.io/JV3xLAl.png", SEA Today
+https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
+
+#EXTINF:-1 group-title="V++" tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://iili.io/JhksBZG.png",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="V++" tvg-id="AlJazeera.Arabic.net" tvg-name="AlJazeera Arabic" tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1",AlJazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
