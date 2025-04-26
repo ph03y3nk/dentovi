@@ -131,7 +131,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cineedge-uk.png "group-title="VISION+",CINEEDGE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cinemachi-Action/sa_dash/Cinemachi-Action.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rPw7APU.png"group-title="VISION+",CNBC Asia
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/365/132365-LOGO-m.png"group-title="VISION+",CNBC Asia
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png"group-title="VISION+",Crime + Investigation
 https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash/CrimeInvestigation.mpd
@@ -141,7 +141,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash/Dreamwork-HD.
 https://dsgtq5sngxkde.cloudfront.net/live/eds/DW/sa_dash/DW.mpd
 #EXTINF:-1 tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059585_logo_ent.png"group-title="VISION+",ent!
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IficfLy.png"group-title="VISION+",EuroNews
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/675/675-LOGO-m.png"group-title="VISION+",EuroNews
 https://dsgtq5sngxkde.cloudfront.net/live/eds/EuroNews/sa_dash/EuroNews.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/640px-Fox_News_Channel_logo.svg.png"group-title="VISION+",FOX News Channel
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash/FoxNews.mpd
@@ -261,3 +261,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTVnow/sa_dash/XingKongTVno
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JmoBV6P.png"group-title="VISION+",Zoomoo
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Zoomoo/sa_dash/Zoomoo.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png"group-title="VISION+",TVRI
+https://dsgtq5sngxkde.cloudfront.net/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png"group-title="VISION+",NET. MDTV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
