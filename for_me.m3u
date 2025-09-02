@@ -1,4 +1,53 @@
 #EXTM3U
+#<!-- ====================================================================== -->
+#<!-- ====================================================================== -->
+#-----------------------------------------------------------------------------#
+#                   Copyright (c) 2023, Salim,SE. (ph03y3nk)                  #
+#                                                                             #
+#                             ___            ___                              #
+#                            /\__\          /\__\                             #
+#                           /:/ _/_        /:/ _/_                            #
+#                          /:/ /\  \      /:/ /\  \                           #
+#                         /:/ /::\  \    /:/ /::\  \                          #
+#                        /:/_/:/\:\__\  /:/_/:/\:\__\                         #
+#                        \:\/:/ /:/  /  \:\/:/ /:/  /                         #
+#                         \::/ /:/  /    \::/ /:/  /                          #
+#                          \/_/:/  /      \/_/:/  /                           #
+#                            /:/  /         /:/  /                            #
+#                            \/__/July,2023.\/__/                             #
+#                             -Salims Softhouse-                              #
+#                                                                             #
+#-----------------------------------------------------------------------------#
+#<!-- ====================================================================== -->
+#<!-- ====================================================================== -->
+
+halaman tidak tersedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FABC%20Australia%20SD-FirstMedia-Chl-251.jpg&w=256&q=100" group-title="VISION+",ABC Australia
@@ -322,6 +371,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="VISION+",SPOTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/20_262.png" group-title="VISION+",SONY TEN 1
+http://supersonictv.live:8080/006779/439866/85647
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/22_261.png" group-title="VISION+",SONY TEN 2
+http://supersonictv.live:8080/006779/439866/85648
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/709/437709-SNAPSHOT-l.png" group-title="VISION+",STUDIO UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
