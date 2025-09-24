@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="TV Indonesia", RCTI Live Sports 🔵
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="https://www.visionplus.id/images/repository/426/173426-LOGO-m.png" group-title="TRANSVISION", RCTI Live Sports 🔵
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
