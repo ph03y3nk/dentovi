@@ -301,12 +301,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
-#EXTINF:-1  tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="05. RELIGION",AlQuran Kareem
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/842/437842-SNAPSHOT-l.png" group-title="05. RELIGION",AlQuran Kareem
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png" group-title="05. RELIGION",AlQuran Kareem
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/842/437842-SNAPSHOT-l.png" group-title="05. RELIGION",AlQuran Kareem
 https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.6367.204 Mobile Safari/537.36 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/842/437842-SNAPSHOT-l.png" group-title="05. RELIGION",AL QURAN AL KARIM
+https://wahyu1ptv.pages.dev/MakkahTV-HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
 #EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png" group-title="05. RELIGION",DMI TV
