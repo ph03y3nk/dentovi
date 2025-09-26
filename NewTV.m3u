@@ -1,526 +1,597 @@
-﻿#EXTM3U
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png" group-title="WORLD & NEWS",ABC Australia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="WORLD & NEWS",Al Jazeera English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="WORLD & NEWS",Al Jazeera English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
-#EXTINF:-1  tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="WORLD & NEWS",AlJazeera Arabic
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/Jmo2lu2.png" group-title="WORLD & NEWS",Arirang TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="WORLD & NEWS",BBC World News
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png" group-title="WORLD & NEWS",Bloomberg TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png" group-title="WORLD & NEWS",CGTN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="WORLD & NEWS",CNA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
-#EXTINF:-1  group-title="WORLD & NEWS",CNBC ASIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/58/58.m3u8
-#EXTINF:-1  group-title="WORLD & NEWS",CNN INTL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/60/60.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="WORLD & NEWS",DW English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_333.png" group-title="WORLD & NEWS",Euronews
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="WORLD & NEWS",Fox News
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="WORLD & NEWS",France 24 English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="WORLD & NEWS",NHK World Japan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="WORLD & NEWS",NHK World Japan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JhksYZb.png" group-title="WORLD & NEWS",RT English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/Jhks06Q.png" group-title="WORLD & NEWS",TRT World
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="TV Indonesia",AN TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/45/45.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="TV Indonesia",AN TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+#EXTM3U
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="01. NATIONAL",AN TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#EXTINF:-1  group-title="TV Indonesia",BALI TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/74/74.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JbtCoiu.png" group-title="TV Indonesia",BN Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="01. NATIONAL",AN TV
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JbtCoiu.png" group-title="01. NATIONAL",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="TV Indonesia",BTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="01. NATIONAL",BTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/28yAlAN.png" group-title="TV Indonesia",CNBC Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_BTV_2025_03_17_14_54_55.png" group-title="01. NATIONAL",BTV
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/28yAlAN.png" group-title="01. NATIONAL",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JV3xSnt.png" group-title="TV Indonesia",CNN Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/59/59.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JV3xSnt.png" group-title="TV Indonesia",CNN Indonesia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JV3xSnt.png" group-title="01. NATIONAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JbtnQjI.png" group-title="TV Indonesia",Elshinta TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JbtnQjI.png" group-title="01. NATIONAL",Elshinta TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/2rCEOZl.png" group-title="TV Indonesia",GARUDA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/11/11.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/2rCEOZl.png" group-title="TV Indonesia",GARUDA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/2rCEOZl.png" group-title="01. NATIONAL",GARUDA TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Indonesia",GTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/57/57.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Indonesia",GTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="01. NATIONAL",GTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
-#EXTINF:-1  group-title="TV Indonesia",INDOSIAR
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/56/56.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Indonesia",INEWS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/52/52.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Indonesia",INEWS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_INDOSIAR_2025_03_17_14_54_45.png" group-title="01. NATIONAL",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="01. NATIONAL",INEWS
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="TV Indonesia",Jawa Pos TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/inews.png" group-title="01. NATIONAL",iNEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAKTV_2025_03_17_14_50_11.png" group-title="01. NATIONAL",JAK TV
+https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="01. NATIONAL",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1  group-title="TV Indonesia",JOWO CHANNEL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/3/3.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="TV Indonesia",JTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/36/36.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="TV Indonesia",JTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="01. NATIONAL",JAWAPOS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="01. NATIONAL",JTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="TV Indonesia",KOMPAS TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/53/53.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="TV Indonesia",KOMPAS TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="01. NATIONAL",KOMPAS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.png" group-title="TV Indonesia",MD TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/44/44.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.png" group-title="TV Indonesia",MDTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="01. NATIONAL",KOMPAS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_116.png" group-title="01. NATIONAL",MDTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png" group-title="TV Indonesia",METRO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/19/19.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png" group-title="TV Indonesia",METRO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png" group-title="01. NATIONAL",METRO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Indonesia",MNC TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/54/54.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Indonesia",MNCTV World
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://static.epg.best/id/MetroTV.id.png" group-title="01. NATIONAL",METRO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="01. NATIONAL",MNCTV World
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
-#EXTINF:-1  group-title="TV Indonesia",MOJI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/50/50.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/2W8UsX2.png" group-title="TV Indonesia",NUSANTARA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/93/93.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/2W8UsX2.png" group-title="TV Indonesia",NUSANTARA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_NUSANTARATV_2025_03_17_15_11_54.png" group-title="01. NATIONAL",NUSANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/2W8UsX2.png" group-title="01. NATIONAL",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia",RCTI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/51/51.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia",RCTI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_PRAMBORS_2025_03_17_15_05_27.png" group-title="01. NATIONAL",PRAMBORS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="01. NATIONAL",RCTI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="TV Indonesia",RTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png" group-title="01. NATIONAL",RTV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
-#EXTINF:-1  group-title="TV Indonesia",SCTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/55/55.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="TV Indonesia",TRANS7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="01. NATIONAL",RTV
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_SCTV_2025_03_17_14_53_51.png" group-title="01. NATIONAL",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/20211213_224146.png/revision/latest" group-title="01. NATIONAL",SINDONEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="01. NATIONAL",TRANS 7
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="TV Indonesia",TRANS7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/42/42.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="TV Indonesia",TRANSTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="01. NATIONAL",TRANS 7
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="01. NATIONAL",TRANS TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="TV Indonesia",TRANSTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/43/43.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="TV Indonesia",TVONE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/46/46.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="TV Indonesia",TVONE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="01. NATIONAL",TV ONE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TV Indonesia",TVRI Nasional
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/63/63.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TV Indonesia",TVRI Nasional
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="01. NATIONAL",TV ONE
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="01. NATIONAL",TVRI Nasional
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
-#EXTINF:-1  group-title="TV Indonesia",VTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/47/47.m3u8
-#EXTINF:-1  group-title="TV Indonesia",WOKO CHANNEL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/71/71.m3u8
-#EXTINF:-1  group-title="Sports",CHAMPION 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/66/66.m3u8
-#EXTINF:-1  group-title="Sports",CHAMPION 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/88/88.m3u8
-#EXTINF:-1  group-title="Sports",CHAMPION 5
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/21/21.m3u8
-#EXTINF:-1  group-title="Sports",CHAMPION 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/94/94.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",FIGHTSPORTS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",FIGHTSPORTS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/16/16.m3u8
-#EXTINF:-1  group-title="Sports",LIVE?
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/61/61.m3u8
-#EXTINF:-1  group-title="Sports",LIVE?
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/70/70.m3u8
-#EXTINF:-1  group-title="Sports",NBA TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/25/25.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sports",SPOTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/15/15.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sports",SPOTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sports",SPOTV 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/86/86.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sports",SPOTV2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
-#EXTINF:-1  group-title="Sports",TVRI SPORT
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/49/49.m3u8
-#EXTINF:-1  group-title="Sports",VOLI TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/2/2.m3u8
-#EXTINF:-1  group-title="Sports",WOMAN SPORT
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/62/62.m3u8
-#EXTINF:-1  tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="Religion",AlQuran Kareem
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/80/80.m3u8
-#EXTINF:-1  tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="Religion",AlQuran Kareem
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/YHsUiwa.png?v=1.0.0.1" group-title="Religion",MQTV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
-#EXTINF:-1  group-title="Religion",MT@TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/82/82.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="Religion",MUI TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="Religion",MUI TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/79/79.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religion",Tawaf TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://tvstreamcast.com/tawaftv.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religion",Tawaf TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="Religion",TV MUHAMMADIYAH
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="Religion",TV MUHAMMADIYAH
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/78/78.m3u8
-#EXTINF:-1  group-title="Religion",TV9 NUSANTARA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/77/77.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_149.png" group-title="Music",MTV 90s
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_148.png" group-title="Music",MTV Live
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/20/20.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_148.png" group-title="Music",MTV Live
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
-#EXTINF:-1  group-title="Music",MUSIK INDONESIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/87/87.m3u8
-#EXTINF:-1  group-title="Music",MUSIK NONSTOP
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/13/13.m3u8
-#EXTINF:-1  group-title="Movies",BIOSKOP INDONESIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/31/31.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="Movies",Buddy Star
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movies",CCM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/35/35.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="Movies",CCM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",CELESTIAL MOVIE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/68/68.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",CELESTIAL MOVIE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
-#EXTINF:-1  group-title="Movies",CHINESE DRAMA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/92/92.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="Movies",CineEdge
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
-#EXTINF:-1  group-title="Movies",CINEMA WORLD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/67/67.m3u8
-#EXTINF:-1  group-title="Movies",CINEMAX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/26/26.m3u8
-#EXTINF:-1  group-title="Movies",FLIX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/33/33.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="Movies",GALAXY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/39/39.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="Movies",GALAXY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="Movies",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/40/40.m3u8
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="Movies",GALAXY PREMIUM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-#EXTINF:-1  group-title="Movies",HBO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/27/27.m3u8
-#EXTINF:-1  group-title="Movies",HBO FAMILY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/30/30.m3u8
-#EXTINF:-1  group-title="Movies",HBO HITS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/28/28.m3u8
-#EXTINF:-1  group-title="Movies",HBO SIGNATURE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/29/29.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies",Hits Movies
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Movies",IMC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/34/34.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="Movies",IMC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="Movies",KIX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/38/38.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="Movies",KIX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="Movies",Originals
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="Movies",Studio Universal
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="Movies",Superrix
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies",THRILL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/90/90.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies",THRILL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png" group-title="Movies",TVN Movies
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/73/73.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png" group-title="Movies",TVN Movies
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_6.png" group-title="Movies",Uniques
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies",ZBIOSKOP
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/32/32.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="Movies",ZBIOSKOP
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
-#EXTINF:-1  group-title="Knowledge",ANIMAL PLANET
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/12/12.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" group-title="Knowledge",BBC Earth
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVRI_2025_03_17_14_57_26.png" group-title="01. NATIONAL",TVRI Nasional
+https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg" group-title="02. KNOWLEDGE",BBC Earth
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="Knowledge",CGTN Documentary
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_205.png" group-title="02. KNOWLEDGE",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_207.jpg" group-title="Knowledge",Crime Investigation
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_207.jpg" group-title="02. KNOWLEDGE",Crime Investigation
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
-#EXTINF:-1  group-title="Knowledge",CURIOSITY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/69/69.m3u8
-#EXTINF:-1  group-title="Knowledge",DISCOVERY ASIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/65/65.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_201.png" group-title="Knowledge",Global Trekker
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_201.png" group-title="02. KNOWLEDGE",Global Trekker
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png" group-title="Knowledge",HISTORY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/14/14.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png" group-title="Knowledge",HISTORY
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png" group-title="02. KNOWLEDGE",HISTORY
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge",LOVE NATURE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/75/75.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge",LOVE NATURE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="02. KNOWLEDGE",LOVE NATURE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",Outdoor Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="02. KNOWLEDGE",OUTDOOR Channel
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Knowledge",RT Documentary
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="02. KNOWLEDGE",RT Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1  group-title="Kids",ANIMAX
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/8/8.m3u8
-#EXTINF:-1  group-title="Kids",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/5/5.m3u8
-#EXTINF:-1  group-title="Kids",CARTOONITO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/6/6.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",DREAMWORKS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/7/7.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",DREAMWORKS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:-1  group-title="Kids",HOREE!
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/4/4.m3u8
-#EXTINF:-1  group-title="Kids",MENTARI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/48/48.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JmoB0wx.png" group-title="Kids",MOONBUG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/89/89.m3u8
-#EXTINF:-1  tvg-logo="https://iili.io/JmoB0wx.png" group-title="Kids",MOONBUG
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids",NICK JR
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/10/10.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="Kids",NICK JR
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.png" group-title="Kids",NICKELODEON
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/9/9.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.png" group-title="Kids",NICKELODEON
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",Zoomoo
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
-#EXTINF:-1  group-title="Entertainment",ALLPLAY ENT
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/23/23.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="Entertainment",AXN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/64/64.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="Entertainment",AXN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
-#EXTINF:-1  group-title="Entertainment",DUNIA LAIN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/81/81.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-title="Entertainment",FOOD TRAVEL
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="Entertainment",HITS
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
-#EXTINF:-1  group-title="Entertainment",HORIZON
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/24/24.m3u8
-#EXTINF:-1  group-title="Entertainment",K+
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/83/83.m3u8
-#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png" group-title="Entertainment",LIFETIME
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
-#EXTINF:-1  group-title="Entertainment",MAXSTREAM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/76/76.m3u8
-#EXTINF:-1  group-title="Entertainment",ONE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/37/37.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" group-title="Entertainment",ONE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="Entertainment",ROCK Action
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_9.png" group-title="03. MOVIES",BUDDY STAR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="03. MOVIES",CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="03. MOVIES",CELESTIAL MOVIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_8.png" group-title="03. MOVIES",CINEEDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="03. MOVIES",GALAXY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="03. MOVIES",GALAXY PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" group-title="03. MOVIES",HITS Movies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="03. MOVIES",IMC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="03. MOVIES",KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_7.png" group-title="03. MOVIES",ORIGINALS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_248.png" group-title="03. MOVIES",ROCK Action
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png" group-title="Entertainment",ROCK Entertainment
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JZIC3x9.png" group-title="03. MOVIES",ROCK Action
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="03. MOVIES",Studio Universal
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_10.png" group-title="03. MOVIES",SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="03. MOVIES",THRILL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Y282owj.png" group-title="03. MOVIES",THRILL
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png" group-title="03. MOVIES",TVN Movies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_6.png" group-title="03. MOVIES",UNIQUES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="03. MOVIES",Z Bioskop
+https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_23.png" group-title="03. MOVIES",ZBIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_CARTOONITO_2025_03_17_14_46_33.png" group-title="04. KIDS",CARTOONITO
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="04. KIDS",DREAMWORKS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png" group-title="04. KIDS",FUN PLANET
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_MYKIDZ_2025_03_17_14_58_58.png" group-title="04. KIDS",MKIDZ
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JmoB0wx.png" group-title="04. KIDS",MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_37.jpg" group-title="04. KIDS",NICK JR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_49.png" group-title="04. KIDS",NICKELODEON
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/640px-Nickelodeon_2009_logo.svg.png" group-title="04. KIDS",NICKELODEON
+https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.png" group-title="04. KIDS",ZooMoo
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="05. RELIGION",AlQuran Kareem
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/RdOrRX2.png" group-title="05. RELIGION",AlQuran Kareem
+https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/tawaftv.png" group-title="05. RELIGION",DMI TV
+https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_MQTV_2025_03_17_14_59_27.png" group-title="05. RELIGION",MQTV
+https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/YHsUiwa.png?v=1.0.0.1" group-title="05. RELIGION",MQTV
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/35585d8e850920bf6783adecbd07a4779ed01bd1/55b1da7f755ebf7.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMU_2025_03_17_15_03_28.png" group-title="05. RELIGION",MUHAMMADIYAH TV
+https://cdn10jtedge.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_TVMUI_2025_03_17_15_00_12.png" group-title="05. RELIGION",MUI TV
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/Vatwmkj.png?v=1.0.0.1" group-title="05. RELIGION",MUI TV
+https://gist.githubusercontent.com/warningfm/77f2924b54e00133bffffc38f53b2726/raw/66ff888b79e2838c3ddc5fbb9d26df1e96a81cc6/71b5c8483161297.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="05. RELIGION",RODJA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="05. RELIGION",RODJA TV
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="05. RELIGION",TAWAF TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="05. RELIGION",TAWAF TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="05. RELIGION",TV MUHAMMADIYAH
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://warningfm.github.io/v3/img/vJPneCu.png?v=1.0.0.1" group-title="05. RELIGION",TV9 Nusantara
+https://cdn10jtedge.indihometv.com/atm/DASH/tv9/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="06. SPORTS",FIGHTSPORTS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png" group-title="06. SPORTS",SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="06. SPORTS",SPOTV2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="07. ENTERTAINMENT",ARIRANG
+https://cdn10jtedge.indihometv.com/atm/DASH/ARIRANG/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/axn_150x150.jpg" group-title="07. ENTERTAINMENT",AXN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/jWAQfAf.png" group-title="07. ENTERTAINMENT",AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-title="07. ENTERTAINMENT",FOOD TRAVEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="07. ENTERTAINMENT",HITS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png" group-title="07. ENTERTAINMENT",K+
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/640px-KIX_logo.svg.png" group-title="07. ENTERTAINMENT",KIX
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png" group-title="07. ENTERTAINMENT",LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  group-title="07. ENTERTAINMENT",MUSIC TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_164.png" group-title="07. ENTERTAINMENT",ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_240.png" group-title="07. ENTERTAINMENT",ROCK Entertainment
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
-#EXTINF:-1  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment",TV5 Monde Style
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JZICKiu.png" group-title="07. ENTERTAINMENT",ROCK Entertainment
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="07. ENTERTAINMENT",TV5 Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
-#EXTINF:-1  group-title="Entertainment",TVN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/72/72.m3u8
-#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="Entertainment",TVN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_158.png" group-title="07. ENTERTAINMENT",TVN
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
-#EXTINF:-1  group-title="Entertainment",WARNER
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv; SM-G9980; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1"
-http://103.179.182.117:6768/hls/41/41.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png" group-title="07. ENTERTAINMENT",WARNER TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png" group-title="08. WORLD & NEWS",ABC Australia
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/znfPqNV.png" group-title="08. WORLD & NEWS",ABC Australia
+https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="08. WORLD & NEWS",Al Jazeera English
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="08. WORLD & NEWS",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JhksBZG.png" group-title="08. WORLD & NEWS",ALJAZEERA
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://cdn4.mbahnunungonline.net/img/fgUVz5m.png?v=1.0.0.1" group-title="08. WORLD & NEWS",AlJazeera Arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_ANTARATV_2025_03_17_15_21_30.png" group-title="08. WORLD & NEWS",ANTARA
+https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/Jmo2lu2.png" group-title="08. WORLD & NEWS",Arirang TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="08. WORLD & NEWS",BBC World News
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/bloomberg.png" group-title="08. WORLD & NEWS",Bloomberg TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png" group-title="08. WORLD & NEWS",CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="08. WORLD & NEWS",CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/Jhksx6l.png" group-title="08. WORLD & NEWS",CNA
+https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_357.png" group-title="08. WORLD & NEWS",DW English
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/assets/88_DWTV_2025_03_17_15_01_10.png" group-title="08. WORLD & NEWS",DW English
+https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_333.png" group-title="08. WORLD & NEWS",Euronews
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="08. WORLD & NEWS",Fox News
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="08. WORLD & NEWS",FRANCE 24
+https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="08. WORLD & NEWS",France 24 English
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="08. WORLD & NEWS",NHK World Japan
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="08. WORLD & NEWS",NHK World Japan
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/JhksYZb.png" group-title="08. WORLD & NEWS",RT English
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://iili.io/Jhks06Q.png" group-title="08. WORLD & NEWS",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/vs1emEN.png" group-title="10. RADIO",Elshinta
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/tE876xm.png" group-title="10. RADIO",Gen FM Jakarta
+http://103.246.184.62:1935/noice_genfm/genfm/chunklist_w1065844643.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LiZKbEr.png" group-title="10. RADIO",Global Radio Jakarta
+http://202.147.199.98:80/;
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/m36t8OF.png" group-title="10. RADIO",Hard Rock FM Jakarta
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="10. RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/wVwvls8.png" group-title="10. RADIO",iRadio Jakarta
+https://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4YNDz8A.png" group-title="10. RADIO",Jak FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w389732598.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JwasnDm.png" group-title="10. RADIO",M Radio Surabaya
+https://c4.siar.us/proxy/mradio/stream
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/dpADolC.png" group-title="10. RADIO",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TUfVa7n.png" group-title="10. RADIO",Most Radio Jakarta
+http://103.246.184.62:1935/noice_mostfm/mostfm/chunklist_w1134660637.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/e5kfVqJ.png" group-title="10. RADIO",Mustang FM
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist_w1206118393.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GXrjpzy.png" group-title="10. RADIO",Smart FM Yogyakarta
+https://streamingv2.shoutcast.com/smart-yogyakarta
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="10. RADIO",Sonora FM Jakarta
+https://streamingv2.shoutcast.com/sonora-jakarta
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="10. RADIO",Sonora FM Purwokerto
+https://streamingv2.shoutcast.com/sonora-purwokerto
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="10. RADIO",Sonora FM Semarang
+https://streamingv2.shoutcast.com/sonora-semarang
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/q6BNdM4.png" group-title="10. RADIO",Sonora FM Surabaya
+https://streamingv2.shoutcast.com/sonora-surabaya
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="10. RADIO",Suara Surabaya
+https://c5.siar.us:443/proxy/ssfm/stream
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VQewXh7.png" group-title="10. RADIO",Trax FM Semarang
+http://stream.radiojar.com/fr9zqhv80k8uv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; wv; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML; like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36 IndiHomeTV/8.7.12 ExoPlayerLib/2.19.1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/RNEmhym.png" group-title="10. RADIO",Trax Jakarta
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
