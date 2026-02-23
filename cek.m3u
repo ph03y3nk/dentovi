@@ -220,28 +220,51 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="" group-title="",SCTV
 https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV ONE
 https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MD TV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MOJI TV
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TRANS TV
 https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",RODJA
 https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SURAU TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MQ TV
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",WESAL TV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ASHIIL TV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",THRILL
 https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DUNIA LAIN
 https://wahyu1ptv.pages.dev/DuniaLain-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AL HIJRAH
 https://wahyu1ptv.pages.dev/AstroAlHijrahTV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SURAU TV
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVN
 https://wahyu1ptv.pages.dev/TvN-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TVN MOVIES
 https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ROCK ENT
 https://wahyu1ptv.pages.dev/RockEntertainment-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ROCK ACTION
 https://wahyu1ptv.pages.dev/RockAction-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BIOSKOP INDONESIA
 https://wahyu1ptv.pages.dev/BioskopIndonesia-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CCM
 https://wahyu1ptv.pages.dev/CCM-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CELESTIAL
 https://wahyu1ptv.pages.dev/CM-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",KIX
 https://wahyu1ptv.pages.dev/KIX-HD.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",K-PLUS
 https://wahyu1ptv.pages.dev/kPlus-HD.m3u8
 
 
