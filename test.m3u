@@ -1,0 +1,109 @@
+#EXTM3U
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/200px-GTV_%282017%29.svg.png" group-title="ID",GLOBAL TV HD
+http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/RCTI_lama3.png" group-title="ID", RCTI (R+)
+http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="ID",MNC TV
+http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png" group-title="ID", MDTV
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="ID", MOJI
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ID", JTV
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ID", BIOSKOP INDONESIA
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Citra drama
+http://202.169.224.202:8800/udp/239.9.1.12:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Citra Muslim
+http://202.169.224.202:8800/udp/239.9.1.14:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Citra bioskop
+http://202.169.224.202:8800/udp/239.9.1.15:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Citra entertainment
+http://202.169.224.202:8800/udp/239.9.1.27:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Citra Dangdut
+http://202.169.224.202:8800/udp/239.9.1.13:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", IDX
+http://202.169.224.202:8800/udp/239.9.1.36:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", TVN
+http://202.169.224.202:8800/udp/239.9.1.20:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="ID", TVN Movies
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Kix
+http://202.169.224.202:8800/udp/239.9.1.21:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", CCM
+http://202.169.224.202:8800/udp/239.9.1.22:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", CELESTIAL movie
+http://202.169.224.202:8800/udp/239.9.1.23:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Hip hip hoore
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Dreamwork
+http://202.169.224.202:8800/udp/239.9.1.19:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Horee
+http://202.169.224.202:8800/udp/239.9.1.26:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Nickeledeon
+http://202.169.224.202:8800/udp/239.9.1.17:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Nick.jr
+http://202.169.224.202:8800/udp/239.9.1.18:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Champion 1
+http://202.169.224.202:8800/udp/239.9.1.9:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Champion 2
+http://202.169.224.202:8800/udp/239.9.1.10:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Champion 3
+http://202.169.224.202:8800/udp/239.9.1.11:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", BBC lifestyle
+http://202.169.224.202:8800/udp/239.9.1.31:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", BBC earth
+http://202.169.224.202:8800/udp/239.9.1.30:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", HGTV
+http://202.169.224.202:8800/udp/239.9.1.3:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", NHK world
+http://202.169.224.202:8800/udp/239.9.1.2:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", TLC
+http://202.169.224.202:8800/udp/239.9.1.4:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Food network
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Discovery
+http://202.169.224.202:8800/udp/239.9.1.6:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", Animal Planet
+http://202.169.224.202:8800/udp/239.9.1.7:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", AFN
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+
+#EXTINF:0, tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ID", BBC news
+http://202.169.224.202:8800/udp/239.9.1.24:1234
