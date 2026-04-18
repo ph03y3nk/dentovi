@@ -113,6 +113,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/JTV.png" group-title="01. NATIONAL",JTV
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/chunklist_w1300123642.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png" group-title="01. NATIONAL",KOMPAS TV
 http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 
