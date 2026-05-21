@@ -142,7 +142,7 @@ http://202.169.224.202:8800/udp/239.1.3.1:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png" group-title="01. NATIONAL",MD TV
-https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -172,7 +172,7 @@ http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="01. NATIONAL",MOJI TV
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -227,7 +227,7 @@ https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png" group-title="01. NATIONAL",SCTV
-https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+#https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -257,7 +257,7 @@ http://202.169.224.202:8800/udp/239.4.1.1:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="01. NATIONAL",TRANS TV
-https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/TransTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -277,7 +277,7 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="01. NATIONAL",TV ONE
-https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+#https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -347,7 +347,7 @@ http://202.169.224.202:8800/udp/239.5.2.5:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="03. MOVIES",BIOSKOP INDONESIA
-https://wahyu1ptv.pages.dev/BioskopIndonesia-HD.m3u8
+#https://wahyu1ptv.pages.dev/BioskopIndonesia-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -357,7 +357,7 @@ http://202.169.224.202:8800/udp/239.9.1.22:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="03. MOVIES",CCM
-https://wahyu1ptv.pages.dev/CCM-HD.m3u8
+#https://wahyu1ptv.pages.dev/CCM-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -367,7 +367,7 @@ http://202.169.224.202:8800/udp/239.9.1.23:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="03. MOVIES",CELESTIAL MOVIE
-https://wahyu1ptv.pages.dev/CM-HD.m3u8
+#https://wahyu1ptv.pages.dev/CM-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -447,7 +447,7 @@ https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/ROCKACTION.png" group-title="03. MOVIES",ROCK Action
-https://wahyu1ptv.pages.dev/RockAction-HD.m3u8
+#https://wahyu1ptv.pages.dev/RockAction-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -462,7 +462,7 @@ https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="03. MOVIES",THRILL
-https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
+#https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -472,7 +472,7 @@ https://wahyu1ptv.pages.dev/Thrill-HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png" group-title="03. MOVIES",TVN Movies
-https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
+#https://wahyu1ptv.pages.dev/tVnMovie-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -557,7 +557,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="05. RELIGION",ASHIIL TV
-https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -582,7 +582,7 @@ http://202.169.224.202:8800/udp/239.3.1.6:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="05. RELIGION",MQ TV
-https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -617,12 +617,12 @@ https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_RODJATV_2025_03_17_14_52_59.png" group-title="05. RELIGION",RODJA TV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="05. RELIGION",SURAU TV
-https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -637,7 +637,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="05. RELIGION",WESAL TV
-https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -737,7 +737,7 @@ http://202.169.224.202:8800/udp/239.9.1.27:1234
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="07. ENTERTAINMENT",DUNIA LAIN
-https://wahyu1ptv.pages.dev/DuniaLain-HD.m3u8
+#https://wahyu1ptv.pages.dev/DuniaLain-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -762,7 +762,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_KPLUS_2025_03_17_15_17_05.png" group-title="07. ENTERTAINMENT",K+
-https://wahyu1ptv.pages.dev/kPlus-HD.m3u8
+#https://wahyu1ptv.pages.dev/kPlus-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -777,7 +777,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_161.png" group-title="07. ENTERTAINMENT",KIX
-https://wahyu1ptv.pages.dev/KIX-HD.m3u8
+#https://wahyu1ptv.pages.dev/KIX-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -792,7 +792,7 @@ https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://iili.io/JZICKiu.png" group-title="07. ENTERTAINMENT",ROCK Entertainment
-https://wahyu1ptv.pages.dev/RockEntertainment-HD.m3u8
+#https://wahyu1ptv.pages.dev/RockEntertainment-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -812,7 +812,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png" group-title="07. ENTERTAINMENT",TVN
-https://wahyu1ptv.pages.dev/TvN-HD.m3u8
+#https://wahyu1ptv.pages.dev/TvN-HD.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
